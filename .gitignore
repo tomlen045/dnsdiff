@@ -1,0 +1,13 @@
+公众号排版版.html
+report.md
+screenshots草稿/
+cards/
+*cover*.py
+__pycache__/
+base.json
+*.snap.json
+.DS_Store
+check_publish_tokens.py
+check_gitee2.py
+check_gitee3.py
+dump_remotes.py
